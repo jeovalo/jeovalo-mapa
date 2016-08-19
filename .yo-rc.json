@@ -1,0 +1,29 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Jeovany Lopez",
+        "email": "jeovalo.polo@gmail.com"
+      },
+      "libraryName": {
+        "original": "jeovalo-mapa",
+        "camelized": "jeovaloMapa",
+        "dasherized": "jeovalo-mapa",
+        "slugified": "jeovalo-mapa",
+        "parts": [
+          "jeovalo",
+          "mapa"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": true,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": false,
+      "librarySrcDirectory": "src/jeovalo-mapa",
+      "libraryUnitTestDirectory": "test/unit/jeovalo-mapa",
+      "libraryUnitE2eDirectory": "test/e2e/jeovalo-mapa"
+    }
+  }
+}
